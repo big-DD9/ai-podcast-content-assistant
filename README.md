@@ -1,5 +1,12 @@
 # AI Podcast Content Assistant
+##  Overview
 
+This project demonstrates backend architectural principles including:
+- App Factory Pattern
+- Blueprint-based routing
+- Service layer separation
+- Structured error handling
+- Environment-based configuration
 A modular backend REST API built using Flask that generates podcast episode titles, captions, and hashtags.
 
 ##  Tech Stack
